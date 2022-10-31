@@ -20,3 +20,9 @@ $ pkg install php
 $ pkg install curl
 
 $ pkg install wget
+
+# How to run?
+
+$ cd Filmapik-Downloader
+
+$ php run.php
